@@ -33,3 +33,7 @@
 > Python
 > Chrome (Make sure to have it installed)
 ```
+
+## 📷 ~ Video
+
+https://github.com/user-attachments/assets/e94b9e4b-721b-41a7-bfde-4e0cf10807cc
