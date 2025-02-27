@@ -39,6 +39,6 @@ def main():
         main()
 
 if __name__ == "__main__":
-    os.system("cls && title Zefoy Tool / github: 0x1859")
+    os.system("cls && title Zefoy Tool / github.com/@xRei77")
     print(ascii)
     main()
