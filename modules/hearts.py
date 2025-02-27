@@ -28,7 +28,7 @@ class Rei:
         return driver
 
     def update_title(self):
-        title = f"TikTok HeartBot | Sent: {self.hearts_sent} | Failed: {self.hearts_failed} | github.com/@0x1859"
+        title = f"TikTok HeartBot | Sent: {self.hearts_sent} | Failed: {self.hearts_failed} | github.com/@xRei77"
         ctypes.windll.kernel32.SetConsoleTitleW(title)
 
     def solve_captcha(self):
